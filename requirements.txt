@@ -1,0 +1,14 @@
+pip
+setuptools
+pandas
+dash
+dash-bootstrap-components
+dash_leaflet
+dash_extensions
+plotly
+pytest
+pytest-cov
+selenium
+dash[testing]
+reverse_geocode
+numpy
